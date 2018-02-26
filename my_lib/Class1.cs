@@ -2,7 +2,8 @@
 
 namespace my_lib
 {
-    public class Class1
+    static public class MyLibClass
     {
+        public static string MyProp = "LibProp";
     }
 }

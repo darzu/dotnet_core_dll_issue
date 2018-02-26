@@ -5,4 +5,10 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="image_metadata">
+      <HintPath>../my_lib/bin/Debug/netstandard2.0/my_lib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
